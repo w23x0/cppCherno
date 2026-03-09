@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="11DEBUG/11DEBUG.vcxproj" />
+  <Project Path="cppCherno/cppCherno.vcxproj" />
+</Solution>
