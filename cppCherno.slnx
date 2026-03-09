@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="05compiling/05compiling.vcxproj" Id="fc342349-9910-4b97-8293-62d2b1cc5125" />
+  <Project Path="06compiler/06compiler.vcxproj" Id="daa449c1-adcd-4a11-8778-7fcf56bf4022" />
+  <Project Path="07linker/07linker.vcxproj" Id="6ee494d7-7a27-47bf-9698-e8b035e8a5ef" />
+  <Project Path="08variables/08variables.vcxproj" Id="a291fa22-916a-4c73-999d-96d53b07cddf" />
+  <Project Path="09functions/09functions.vcxproj" Id="629189d7-1802-4994-94de-b1d6cb1fadcb" />
+  <Project Path="10headerFiles/10headerFiles.vcxproj" Id="e79cd4b4-7c19-418a-9c7f-72ff50b6ead3" />
+  <Project Path="11DEBUG/11DEBUG.vcxproj" Id="44c424bd-09e8-4c37-a67c-8be0953183c7" />
+  <Project Path="cppCherno/cppCherno.vcxproj" Id="a112a29d-3999-4131-a4c0-7a0b090e3831" />
+</Solution>
