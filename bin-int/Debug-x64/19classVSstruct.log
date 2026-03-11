@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Professional\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(548,5): warning MSB8028: 中间目录(C:\Users\Wang\Desktop\cpp\cppCherno\bin-int\Debug-x64\\)包含从另一个项目(16pointers.vcxproj, 17reference.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\Users\Wang\Desktop\cpp\cppCherno\bin\Debug-x64\\19classVSstruct.exe : fatal error LNK1120: 1 个无法解析的外部命令
